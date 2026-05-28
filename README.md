@@ -1,0 +1,1 @@
+FreshGo is an AI-powered smart food freshness and inventory management platform designed to reduce food waste and improve food quality monitoring. It helps users track food freshness, predict expiry dates, detect rotten fruits and vegetables, and manage storage inventory using intelligent monitoring systems.
